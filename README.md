@@ -1,3 +1,3 @@
-# Spatial Data Management with Google Earth Engine
-## Provided by: United Nations University - Institute of Water, Environment and Health
-## Source materials: [Course Playlist](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPeXzIjOJx3vBF0ftKlcYH9J) |  [Course Website](https://geog-414.gishub.org/index.html) | [GEE Official Documentation](https://developers.google.com/earth-engine/guides) | [G4G 2023](https://geemap.org/workshops/G4G_2023/)
+# GEE's laboratories
+#### This repo represents all the knowledge gained and applied throughout the Spatial Data Management with Google Earth Engine course by United Nations University - Institute of Water, Environment and Health.
+### Source materials: [Course Playlist](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPeXzIjOJx3vBF0ftKlcYH9J) |  [Course Website](https://geog-414.gishub.org/index.html) | [GEE Official Documentation](https://developers.google.com/earth-engine/guides) | [G4G 2023](https://geemap.org/workshops/G4G_2023/)
